@@ -5,6 +5,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
-
-
-<img src="https://i.gifer.com/bJk.gif" alt="Banner" width="100%" />
