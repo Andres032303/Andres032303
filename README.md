@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/8F3E.gif" alt="Banner" width="100%" style="border-radius:15px; display:block; overflow:hidden;" />
+<img src="https://i.gifer.com/8F3E.gif" alt="Banner" width="96%"/>
 
 <picture style="width:100%; display:block;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
